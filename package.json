@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://gitlab.com/alestor123/express-starter-api/issues"
   },
-  "homepage": "https://gitlab.com/alestor123/express-starter-api#readme"
+  "homepage": "https://gitlab.com/alestor123/express-starter-api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
