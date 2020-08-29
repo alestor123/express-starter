@@ -1,0 +1,19 @@
+{
+  "name": "express-api-starter",
+  "version": "1.0.0",
+  "description": "This is a simple express js starter code",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/alestor123/express-starter-api.git"
+  },
+  "author": "Alestor Aldous",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gitlab.com/alestor123/express-starter-api/issues"
+  },
+  "homepage": "https://gitlab.com/alestor123/express-starter-api#readme"
+}
