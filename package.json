@@ -4,6 +4,8 @@
   "description": "This is a simple express js starter code",
   "main": "App.js",
   "scripts": {
+    "dev":"nodemon App.js",
+    "start":"node App.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
